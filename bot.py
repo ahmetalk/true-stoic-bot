@@ -18,9 +18,6 @@ now = datetime.now()
 current_time = now.strftime("%H:%M")
 print("Current Time =", current_time) #Current Time = 07:41
 
-if current_time == "16:16":
-    print('it is the current time right now, ', current_time)
-
 
 
 
