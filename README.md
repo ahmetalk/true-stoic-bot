@@ -12,5 +12,6 @@ Telegram bot that posts a quote and picture
 >Clone this repo and run it with $python bot.py
 
 Commands are:
--start
--quote
+/start
+/quote
+/time
